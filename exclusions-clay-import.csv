@@ -1,38 +1,42 @@
-Company Name,Domain,Type
-Famasi,,Customer
-Heroshe,,Customer
-Transport Services Limited,,Customer
-Oando,,Customer
-Flutterwave,,Customer
-Risevest,,Customer
-MAX,,Customer
-Dantata,,Customer
-Bamboo,,Customer
-Busha,,Customer
-Nikky Taurus,,Customer
-FairMoney MFB,,Partner or investor
-YALO,,Partner or investor
-FUNDiT,,Partner or investor
-Sync Capital,,Partner or investor
-Yield MFB,,Partner or investor
-Raenest,raenest.com,Partner or investor
-RemoFirst,remofirst.com,Partner or investor
-Zitra,,Partner or investor
-LSETF,,Partner or investor
-Accion,accion.org,Partner or investor
-SeamlessHR,seamlesshr.com,Competitor
-Workpay,myworkpay.com,Competitor
-Soft Alliance (SoftSUITE),softsuite.com,Competitor
-SystemSpecs (HumanManager),humanmanager.net,Competitor
-Bujeti,,Competitor
-Salario,salariopay.com,Competitor
-Paypaxe,paypaxe.com,Competitor
-Xceed365HR,,Competitor
-Deel,deel.com,Competitor
-Remote,remote.com,Competitor
-Oyster,oysterhr.com,Competitor
-Cadana,cadanapay.com,Competitor
-Bento Africa,bento.africa,Competitor
-Pluspeople Kenya (Payroll.ke),payroll.ke,Competitor
-FaidiHR,faidihr.com,Competitor
-PayRollGH,,Competitor
+Company Name,Domain,Type,Confidence,Source
+Famasi,famasi.africa,Customer,Medium,"Startup directories (startuplist.africa/startups/famasi; siliconafrica.org/company/famasi-africa), checked 2026-11-17"
+Heroshe,heroshe.com,Customer,High,"Press names Heroshe.com as its site (disrupt-africa.com 2021-12-29); Trustpilot review page for heroshe.com, checked 2026-11-17"
+Transport Services Limited,tsllimited.com,Customer,Medium,"UN Global Compact listing and directories; contact email logistics@tsllimited.com (unglobalcompact.org participant 147761), checked 2026-11-17"
+Oando,oandoplc.com,Customer,High,"Company's own page names it the only official site (oandoplc.com/scam-alert), checked 2026-11-17"
+Flutterwave,flutterwave.com,Customer,High,"Wikipedia, LinkedIn and Craft agree (en.wikipedia.org/wiki/Flutterwave), checked 2026-11-17"
+Risevest,risevest.com,Customer,High,"IOSCO I-SCAN alert lists risevest.com (iosco.org/i-scan/?id=40339), checked 2026-11-17"
+MAX,max.ng,Customer,Medium,"Directory lists max.ng as official site (startuplist.africa/startups/maxng), checked 2026-11-17"
+MAX,maxdrive.ai,Customer,Low,"One startup profile links maxdrive.ai; second domain, unconfirmed, checked 2026-11-17"
+Dantata,,Customer,None,"Not found. Name covers several companies (Dantata Organisation, Dantata & Sawoe, Dantata Foods); research does not say which one is the client"
+Bamboo,investbamboo.com,Customer,High,"Company's own pages (investbamboo.com/institution) and support email, checked 2026-11-17"
+Busha,busha.io,Customer,High,"Company's own llms.txt names busha.io and Busha Digital Limited (busha.io/llms.txt), checked 2026-11-17"
+Busha,busha.co,Customer,Medium,"Older domain still listed in directories (siliconafrica.org/company/busha), checked 2026-11-17"
+Nikky Taurus,,Customer,None,"Not found. Only directory listings (finelib.com Nikky Taurus Nigeria Limited), no website"
+FairMoney MFB,fairmoney.io,Partner or investor,High,"Company's own site and product pages (fairmoney.io), checked 2026-11-17"
+FairMoney MFB,fairmoney.ng,Partner or investor,Medium,"Listed as developer website on App Store (apps.apple.com/us/app/id6456485223), checked 2026-11-17"
+YALO,yalo.ng,Partner or investor,Medium,"Press says employees apply through yalo.ng; marketplace.yalo.ng (techpoint.africa/brandpress/yalo-launches-employee-marketplace), checked 2026-11-17"
+FUNDiT,fundit.com.ng,Partner or investor,Medium,"Inferred from careers@fundit.com.ng in job posts (myjobmag.com FUNDiT Finance listings); homepage not confirmed, checked 2026-11-17"
+Sync Capital,,Partner or investor,None,"Not found. Now Sync Finance Company Limited, Lekki (nairametrics.com 2025-09-30); no website in any source"
+Yield MFB,,Partner or investor,None,"Not found. Search only returns Yield by Credit Direct (creditdirect.ng/yield), likely a different company; do not use"
+Raenest,raenest.com,Partner or investor,High,context/docs/research/customer-videos.md:11
+RemoFirst,remofirst.com,Partner or investor,High,context/docs/research/company.md:153
+Zitra,,Partner or investor,None,"Not found. Press coverage only (techcabal.com/2026/05/04/paidhr-and-zitra-partner; nairametrics.com 2026-11-11), no website"
+LSETF,lsetf.ng,Partner or investor,High,"Fund's own pages (lsetf.ng/content/business-support), checked 2026-11-17"
+Accion,accion.org,Partner or investor,High,context/docs/research/voice.md:142
+SeamlessHR,seamlesshr.com,Competitor,High,context/docs/research/competitors.md:24
+Workpay,myworkpay.com,Competitor,High,context/docs/research/competitors.md:25
+Soft Alliance (SoftSUITE),softsuite.com,Competitor,High,context/docs/research/competitors.md:28
+SystemSpecs (HumanManager),humanmanager.net,Competitor,High,context/docs/research/competitors.md:122
+Bujeti,bujeti.com,Competitor,Medium,"context/docs/research/competitors.md:132 (marked INFERRED); press links bujeti.com/contact (thecondia.com/partners/nigerian-fintech-bujeti-tax-compliance-tool), checked 2026-11-17"
+Salario,salariopay.com,Competitor,Medium,"context/docs/research/competitors.md:143 (from press, not fetched)"
+Paypaxe,paypaxe.com,Competitor,Medium,"context/docs/research/competitors.md:152 (from press, not fetched)"
+Xceed365HR,xceed365hr.com,Competitor,Medium,"Company directory (ghost.bitscale.ai/xceed365hr), checked 2026-11-17"
+Xceed365HR,xceed365.com,Competitor,Low,"Older product domain in one profile (getlatka.com/companies/xceed365.com), unconfirmed, checked 2026-11-17"
+Deel,deel.com,Competitor,High,context/docs/research/competitors.md:35
+Remote,remote.com,Competitor,High,context/docs/research/competitors.md:37
+Oyster,oysterhr.com,Competitor,High,context/docs/research/competitors.md:38
+Cadana,cadanapay.com,Competitor,High,context/docs/research/competitors.md:34
+Bento Africa,bento.africa,Competitor,Medium,context/docs/research/competitors.md:85 (fetch returned domain name only)
+Pluspeople Kenya (Payroll.ke),payroll.ke,Competitor,High,context/docs/research/competitors.md:46
+FaidiHR,faidihr.com,Competitor,Medium,context/docs/research/competitors.md:47 (site returned 403)
+PayRollGH,,Competitor,None,"Not found. Only a hosting URL payrollsaas-eight.vercel.app, not an own domain (context/docs/research/competitors.md:48)"
